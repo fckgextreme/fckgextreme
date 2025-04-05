@@ -1,8 +1,7 @@
-<h2 align="center"> SOCIAL MEDIA: </h1>
+<a href="https://github.com/fckgextreme">![fckgextreme profile](https://i.pinimg.com/originals/34/0d/75/340d75322c5647151881e6294a23aea0.gif)</a>
+
+<h2 align="center"> SOCIAL MEDIA: 🎬</h1>
   <p align="center">
-    <a href="https://fckgextreme.ru/">
-      <img src="">
-    </a>
     <a href="https://github.com/fckgextreme">
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
     </a>
@@ -31,7 +30,7 @@ apps/launchers/interfaces. I have experience working with many people, companies
 <br>➤ 💰 | Earned over <b>$70,000</b> from his skills and hobbies.
 <br>➤ 🎸 | Became a member and sound engineer of the major world studio «<b>Diamond Style</b>».
 
-<h2 align="center"> FRONTEND SKILLS: </h1>
+<h2 align="center"> FRONTEND SKILLS: 🎨</h1>
 <p align="center">
   <code><a href="https://html.spec.whatwg.org/multipage/"><img alt="HTML5" title="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="32"></a></code>
   <code><a href="https://drafts.csswg.org/"><img alt="CSS3" title="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="32"></a></code>
@@ -45,7 +44,7 @@ apps/launchers/interfaces. I have experience working with many people, companies
 </p>
 
 
-<h2 align="center"> BACKEND & DATABASE SKILLS: </h1>
+<h2 align="center"> BACKEND & DATABASE SKILLS: 💻</h1>
 <p align="center">
   <code><a href="https://www.typescriptlang.org/"><img alt="TypeScript" title="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="32"></a></code>
   <code><a href="https://www.php.net/"><img alt="PHP" title="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="32"></a></code>
@@ -53,7 +52,7 @@ apps/launchers/interfaces. I have experience working with many people, companies
       <code><a href="https://www.mongodb.com/"><img alt="MongoDB" title="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="32"></a></code>
 </p>
 
-<h2 align="center"> TOOLS FOR WORK: </h1>
+<h2 align="center"> TOOLS FOR WORK: 🔧</h1>
 <p align="center">
   <code><a href="https://www.adobe.com/ru/products/photoshop.html"><img alt="Adobe Photoshop" title="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" height="32"></a></code>
   <code><a href="https://www.figma.com/"><img alt="Figma" title="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="32"></a></code>
@@ -63,7 +62,7 @@ apps/launchers/interfaces. I have experience working with many people, companies
   <code><a href="https://www.jetbrains.com/ru-ru/webstorm/"><img alt="WebStorm" title="WebStorm" src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" height="32"></a></code>
 </p>
 
-<h2 align="center"> ENVIRONMENT & OTHER SKILLS: </h1>
+<h2 align="center"> ENVIRONMENT & OTHER SKILLS: 📂</h1>
 <p align="center">
     <code><a href="https://www.microsoft.com/ru-ru/software-download/windows11"><img alt="Windows 11" title="Windows 11" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" height="32"></a></code>
     <code><a href="https://ubuntu.com/"><img alt="Ubuntu" title="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="32"></a></code>
@@ -74,7 +73,7 @@ apps/launchers/interfaces. I have experience working with many people, companies
 </p>
 <br>
 
-<h2 align="center"> ADDITIONAL INFORMATION: </h1>
+<h2 align="center"> ADDITIONAL INFORMATION: 📝</h1>
 
 ``` cpp
 #include <iostream>
