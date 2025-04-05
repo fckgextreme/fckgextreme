@@ -1,5 +1,3 @@
-<a href="https://github.com/fckgextreme">![fckgextreme profile]([https://i.pinimg.com/originals/34/0d/75/340d75322c5647151881e6294a23aea0.gif](https://s6.gifyu.com/images/bMIhq.gif))</a>
-
 <h2 align="center"> SOCIAL MEDIA: </h1>
   <p align="center">
     <a href="https://fckgextreme.ru/">
