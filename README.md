@@ -79,7 +79,7 @@ apps/launchers/interfaces. I have experience working with many people, companies
 typedef struct {
     const char* level;
     const char* goal;
-    const char* learning[1]; // массив указателей на строки
+    const char* learning[1];
     const char* dream;
 } Developer;
 
