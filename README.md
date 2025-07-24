@@ -73,39 +73,43 @@ apps/launchers/interfaces. I have experience working with many people, companies
 
 <h2 align="center"> ADDITIONAL INFORMATION: 📝</h1>
 
-``` cpp
-#include <iostream>
-#include <vector>
-#include <string>
+``` c
+#include <stdio.h>
 
-class Developer {
-public:
-    std::string level = "Mid-level";
-    std::string goal = "Work on a large project and become a Senior Developer";
-    std::vector<std::string> learning = {"Backend Development"};
-    std::string dream = "Start my own fulfillment studio";
+typedef struct {
+    const char* level;
+    const char* goal;
+    const char* learning[1]; // массив указателей на строки
+    const char* dream;
+} Developer;
 
-    void aboutMe() {
-        std::cout << "🎧 I write music, mix works of popular and emerging artists.\n";
-        std::cout << "🎙️ I collaborate with 'Diamond Style' studio, working with famous musicians and producers.\n";
-        std::cout << "🎨 I'm passionate about design — I develop layouts and creative visuals.\n";
-    }
+void aboutMe() {
+    printf("🎧 I write music, mix works of popular and emerging artists.\n");
+    printf("🎙️ I collaborate with 'Diamond Style' studio, working with famous musicians and producers.\n");
+    printf("🎨 I'm passionate about design — I develop layouts and creative visuals.\n");
+}
 
-    void hobbies() {
-        std::cout << "🎵 I enjoy listening to music of all styles and genres.\n";
-        std::cout << "🎬 I love detective and horror movies to unwind.\n";
-        std::cout << "🌄 Outdoor adventures, long trips, and global travel recharge and inspire me.\n";
-    }
+void hobbies() {
+    printf("🎵 I enjoy listening to music of all styles and genres.\n");
+    printf("🎬 I love detective and horror movies to unwind.\n");
+    printf("🌄 Outdoor adventures, long trips, and global travel recharge and inspire me.\n");
+}
 
-    void mission() {
-        std::cout << "🚀 Keep growing, keep building, and enjoy the journey.\n";
-    }
-};
+void mission() {
+    printf("🚀 Keep growing, keep building, and enjoy the journey.\n");
+}
 
 int main() {
-    Developer me;
-    me.aboutMe();
-    me.hobbies();
-    me.mission();
+    Developer me = {
+        .level = "Mid-level",
+        .goal = "Work on a large project and become a Senior Developer",
+        .learning = {"Backend Development"},
+        .dream = "Start my own fulfillment studio"
+    };
+
+    aboutMe();
+    hobbies();
+    mission();
+
     return 0;
 }
